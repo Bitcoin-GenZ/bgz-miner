@@ -7,14 +7,9 @@
 | **rel/nightly** | [![CircleCI](https://circleci.com/gh/algorand/go-algorand/tree/rel%2Fnightly.svg?style=svg)](https://circleci.com/gh/algorand/go-algorand/tree/rel%2Fnightly) |
 
 
-
-## Getting Started
-
-Visit our [developer website](https://developer.algorand.org/) for the most up-to-date information about using and installing the Algorand platform.
-
 ## Building from Source
 
-Development is done using the Go Programming Language. The Go version is specified in the project's [go.mod](go.mod) file. This document assumes you have a functioning environment set up. If you need assistance setting up an environment, please visit the [official Go documentation website](https://golang.org/doc/).
+Development is done using the Go Programming Language. The Go version is specified in the project's [go.mod](go.mod) file. This document assumes you have a functioning environment set up. 
 
 ### Linux / OSX
 
@@ -77,8 +72,6 @@ Use:
 ```bash
 ${GOPATH}/bin/carpenter -d ~/.algorand
 ```
-
-to see activity. Refer to the [developer website](https://developer.algorand.org/) for instructions on using different tools.
 
 ### Providing Your Own Data Directory
 
