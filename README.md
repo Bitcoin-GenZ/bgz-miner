@@ -15,7 +15,11 @@ Heads up though: we're gonna assume you've already got your dev rig all set up a
 
 ### Linux / OSX
 
-We currently strive to support Debian-based distributions, with Ubuntu 20.04 as our official release target. Building on Arch Linux also works well. Our core engineering team uses Linux and OSX, so both environments are well-supported for development.
+When it comes to operating systems, here's the lowdown:
+
+We're mainly vibing with Debian-based distros, with Ubuntu 20.04 being our official go-to. But hey, if you're rocking Arch Linux, that works great too! 👍
+
+Our core squad builds on Linux and OSX, so you know both of those environments are totally supported for your coding adventures.
 
 **OSX Only**: [Homebrew (brew)](https://brew.sh) must be installed before continuing. [Here](https://docs.brew.sh/Installation) are the installation requirements.
 
