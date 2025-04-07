@@ -9,7 +9,11 @@
 
 ## Building from Source
 
-Development is done using the Go Programming Language. The Go version is specified in the project's [go.mod](go.mod) file. This document assumes you have a functioning environment set up. 
+Alright, devs! 💻 Let's get into the code.
+
+Under the hood, we're building this awesome stuff with Go (yep, that's the programming language). If you're wondering which version we're vibing with, just peep the go.mod file in the project – it's all in there.
+
+Heads up though: we're gonna assume you've already got your dev rig all set up and ready to roll. Let's build!
 
 ### Linux / OSX
 
