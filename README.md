@@ -1,5 +1,5 @@
 
-# go-algorand
+# BGZ-Miner implementation
 | **Branch**      | **Build Status** |
 | --------------- | ---------------- |
 | **rel/stable**  | [![CircleCI](https://circleci.com/gh/algorand/go-algorand/tree/rel%2Fstable.svg?style=svg)](https://circleci.com/gh/algorand/go-algorand/tree/rel%2Fstable) |
@@ -7,9 +7,6 @@
 | **rel/nightly** | [![CircleCI](https://circleci.com/gh/algorand/go-algorand/tree/rel%2Fnightly.svg?style=svg)](https://circleci.com/gh/algorand/go-algorand/tree/rel%2Fnightly) |
 
 
-**Algorand's** official implementation in Go.
-
-Algorand is a permissionless, pure proof-of-stake blockchain that delivers decentralization, scalability, security, and transaction finality.
 
 ## Getting Started
 
