@@ -65,7 +65,7 @@ Alternatively, run:
 make sanity
 ```
 
-## Running a Node
+## Running a Miner
 
 Once the software is built, you'll find binaries in `${GOPATH}/bin`, and a data directory will be initialized at `~/.algorand`. Start your node with:
 
