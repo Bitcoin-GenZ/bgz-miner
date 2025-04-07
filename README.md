@@ -26,8 +26,8 @@ Our core squad builds on Linux and OSX, so you know both of those environments a
 ### Initial Environment Setup
 
 ```bash
-git clone https://github.com/algorand/go-algorand
-cd go-algorand
+git clone https://github.com/Bitcoin-GenZ/bgz-miner
+cd bgz-miner
 ./scripts/configure_dev.sh
 ./scripts/buildtools/install_buildtools.sh
 ```
