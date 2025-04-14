@@ -1,5 +1,5 @@
 
-# BGZ-Miner implementation
+# Miner implementation
 | **Branch**      | **Build Status** |
 | --------------- | ---------------- |
 | **rel/stable**  | [![CircleCI](https://circleci.com/gh/algorand/go-algorand/tree/rel%2Fstable.svg?style=svg)](https://circleci.com/gh/algorand/go-algorand/tree/rel%2Fstable) |
@@ -121,7 +121,7 @@ Provides core functionality to the `algod` and `kmd` daemons, as well as other t
 
 ### Daemon
 
-Contains the two daemons that provide Algorand clients with services:
+Contains the two daemons that provide clients with services:
 
 - **daemon/algod**: Holds the `algod` daemon, which implements a participating node. `algod` allows a node to participate in the agreement protocol, submit and confirm transactions, and view the state of the Algorand Ledger.
   - **daemon/algod/api** ([README](daemon/algod/api/README.md)): The REST interface used for interactions with `algod`.
@@ -129,7 +129,7 @@ Contains the two daemons that provide Algorand clients with services:
 
 ### Interfacing
 
-Enables developers to interface with the Algorand system:
+Enables developers to interface with the system:
 
 - **cmd**: Contains the primary commands defining entry points into the system.
   - **cmd/catchupsrv** ([README](cmd/catchupsrv/README.md)): A tool to assist with processing historic blocks on a new node.
